@@ -1,2 +1,0 @@
-# runday
- a simple game
